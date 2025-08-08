@@ -1,0 +1,1 @@
+SELECT * FROM advertising_strategy.advertising_strategy;
